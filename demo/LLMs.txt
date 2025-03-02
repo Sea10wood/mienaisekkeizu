@@ -1,0 +1,4 @@
+home -> about
+home -> products
+products -> productA
+productA -> checkout
